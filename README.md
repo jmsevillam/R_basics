@@ -1,4 +1,4 @@
-# R_basics
+# `R` Basics
 Contains some notebooks with the basic concepts on R.
 
 Based on the examples of [link](https://www.wiley.com/en-us/Probability%2C+Decisions+and+Games%3A+A+Gentle+Introduction+using+R-p-9781119302605)
